@@ -347,20 +347,36 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__react {
   width: 95%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 75%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 75%;
 }
 
 .skills__ux {
+  width: 65%;
+}
+
+.skills__node {
   width: 85%;
+}
+
+.skills__py {
+  width: 95%;
+}
+
+.skills__pgsql {
+  width: 65%;
+}
+
+.skills__git {
+  width: 80%;
 }
 
 .skills__img {
